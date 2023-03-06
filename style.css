@@ -1,0 +1,79 @@
+.container{
+   
+     background-image: url("https://img.freepik.com/premium-photo/blue-sky-gradient-abstract-background_608068-1591.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    /* background-image: linear-gradient(white, rgb(20, 232, 197)); */
+    height: 777px;
+    font-size: medium;
+    color: white;
+    background-color: rgb(142, 228, 199);
+    color:black;
+    border:solid;
+    border-color: gold;
+
+}
+
+.container h2{
+    color: gold;
+    align-self: center;
+    /* margin-left: 48%; */
+}
+
+.container h3{
+    /* margin-left: 47%; */
+    color: rgb(201, 174, 16);
+
+}
+
+div.container {
+    text-align: center;
+  }
+  
+  ul.ingredients {
+    display: inline-block;
+    text-align: left;
+  }
+
+
+#search-btn{
+    background-color: azure;
+    z-index: 5;
+    color: black;
+    margin: 15px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    align-self: center;
+    /* margin-left: 10%; */
+}
+
+#search-btn{
+     transition-duration:1sec ;
+}
+
+#search-btn:hover{
+    background-color: rgb(2, 238, 251);
+}
+
+#result img{
+    display: block;
+  max-width: 16em;
+  margin: auto;
+}
+
+.search-container{
+    align-self: center;
+    /* margin-left: 40%; */
+    border-radius: 15px;
+    bottom: none;
+    color: black;
+}
+
+#result {
+    line-height: 1.5em;
+  }
+
+  #result h2{
+    align-self: center;
+    
+  }
